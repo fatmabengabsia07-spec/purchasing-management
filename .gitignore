@@ -1,0 +1,18 @@
+# ===== BACK =====
+purchasing-management/target/
+purchasing-management/.classpath
+purchasing-management/.project
+purchasing-management/.settings/
+purchasing-management/.factorypath
+purchasing-management/.mvn/
+purchasing-management/mvnw
+purchasing-management/mvnw.cmd
+purchasing-management/HELP.md
+purchasing-management/.gitattributes
+purchasing-management/.gitignore
+purchasing-management/converter/
+
+
+
+.DS_Store
+*.log
