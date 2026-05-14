@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.angular/
+.git/
+.vscode/
+.editorconfig
+.prettierrc
+.gitignore
+README.md
+src/environments/environment.ts
